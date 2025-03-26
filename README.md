@@ -1,5 +1,7 @@
 # Manejo Ramas
 
+[Acerca de las ramas](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+
 Este proyecto es una aplicación que maneja diferentes clases relacionadas con problemas y su gestión. En este archivo se explica cómo se estructuran las ramas en el repositorio, qué cambios se han realizado en cada rama, y cómo se afectan mutuamente las clases y el proyecto.
 
 ## Ramas y su Propósito

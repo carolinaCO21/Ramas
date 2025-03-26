@@ -9,8 +9,8 @@ La rama `main` contiene el código base del proyecto. En esta rama se configuran
 
 **Últimos commits:**
 - **43cb487** - *Config .gitignore*: Configuración básica de `.gitignore` para ignorar archivos específicos del entorno de Eclipse.
-- **fa9d299** - *Eliminar archivos específicos de Eclipse*: Eliminación de archivos generados por Eclipse que no deben ser versionados.
-- **7a5f04a** - *guardar cambios*: Commit inicial para realizar una primera versión del proyecto.
+- **fa9d299** - *Eliminar archivos específicos de Eclipse*: Modificación del .gitignore para la eliminación de archivos generados por Eclipse que no deben ser versionados.
+- **7a5f04a** - *guardar cambios*: Commit Para marcar una acción importante (como un "hito" o "checkpoint") con el objetivo de crear un punto de referencia en el historial sin necesidad de modificar el código.
 
 ### Rama `Problema1`
 La rama `Problema1` se creó para implementar y realizar cambios relacionados con el "Problema 1". Se trabajó principalmente en la implementación de las clases necesarias para este problema.
@@ -40,7 +40,7 @@ La rama `Problema2` se creó para implementar y trabajar en el "Problema 2". Aqu
 - **Rama `Problema1` y `Problema2`**: Ambas ramas se crearon a partir de `main` y contienen cambios específicos para resolver problemas distintos. Aunque ambas ramas tienen cambios en las clases `Clase1.java` y `Clase2.java`, sus implementaciones son diferentes para abordar problemas distintos.
 
 ## ¿Cómo afectan las ramas al código?
-- Las ramas `Problema1` y `Problema2` tienen commits que afectan directamente las clases `Clase1` y `Clase2`. Aunque ambas ramas incluyen cambios en el archivo `.gitignore`, los cambios en el código son específicos a cada problema.
+- Las ramas `Problema1` y `Problema2` tienen commits que afectan directamente las clases `Clase1` y `Clase2`. 
 - La rama `main` se mantiene como la base y no contiene cambios específicos de los problemas, pero se encarga de la configuración global que afecta a todo el proyecto.
 
 ## Resumen
